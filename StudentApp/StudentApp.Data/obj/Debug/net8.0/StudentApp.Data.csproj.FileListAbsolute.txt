@@ -1,0 +1,11 @@
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\bin\Debug\net8.0\StudentApp.Data.deps.json
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\bin\Debug\net8.0\StudentApp.Data.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\bin\Debug\net8.0\StudentApp.Data.pdb
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\obj\Debug\net8.0\StudentApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\obj\Debug\net8.0\StudentApp.Data.AssemblyInfoInputs.cache
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\obj\Debug\net8.0\StudentApp.Data.AssemblyInfo.cs
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\obj\Debug\net8.0\StudentApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\obj\Debug\net8.0\StudentApp.Data.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\obj\Debug\net8.0\refint\StudentApp.Data.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\obj\Debug\net8.0\StudentApp.Data.pdb
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Data\obj\Debug\net8.0\ref\StudentApp.Data.dll

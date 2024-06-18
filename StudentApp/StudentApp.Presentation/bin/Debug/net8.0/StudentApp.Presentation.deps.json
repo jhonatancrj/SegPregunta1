@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StudentApp.Presentation/1.0.0": {
+        "dependencies": {
+          "StudentApp.Business": "1.0.0"
+        },
+        "runtime": {
+          "StudentApp.Presentation.dll": {}
+        }
+      },
+      "StudentApp.Business/1.0.0": {
+        "dependencies": {
+          "StudentApp.Data": "1.0.0"
+        },
+        "runtime": {
+          "StudentApp.Business.dll": {}
+        }
+      },
+      "StudentApp.Data/1.0.0": {
+        "runtime": {
+          "StudentApp.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentApp.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentApp.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

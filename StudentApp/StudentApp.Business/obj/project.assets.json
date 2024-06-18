@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "StudentApp.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/StudentApp.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentApp.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentApp.Data/1.0.0": {
+      "type": "project",
+      "path": "../StudentApp.Data/StudentApp.Data.csproj",
+      "msbuildProject": "../StudentApp.Data/StudentApp.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "StudentApp.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP 2021\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP 2021\\source\\repos\\StudentApp\\StudentApp.Business\\StudentApp.Business.csproj",
+      "projectName": "StudentApp.Business",
+      "projectPath": "C:\\Users\\HP 2021\\source\\repos\\StudentApp\\StudentApp.Business\\StudentApp.Business.csproj",
+      "packagesPath": "C:\\Users\\HP 2021\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP 2021\\source\\repos\\StudentApp\\StudentApp.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP 2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\HP 2021\\source\\repos\\StudentApp\\StudentApp.Data\\StudentApp.Data.csproj": {
+              "projectPath": "C:\\Users\\HP 2021\\source\\repos\\StudentApp\\StudentApp.Data\\StudentApp.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

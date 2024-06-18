@@ -1,0 +1,17 @@
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\bin\Debug\net8.0\StudentApp.Presentation.deps.json
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\bin\Debug\net8.0\StudentApp.Presentation.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\bin\Debug\net8.0\StudentApp.Presentation.pdb
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\bin\Debug\net8.0\StudentApp.Business.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\bin\Debug\net8.0\StudentApp.Data.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\bin\Debug\net8.0\StudentApp.Business.pdb
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\bin\Debug\net8.0\StudentApp.Data.pdb
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\StudentApp.Presentation.csproj.AssemblyReference.cache
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\StudentApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\StudentApp.Presentation.AssemblyInfoInputs.cache
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\StudentApp.Presentation.AssemblyInfo.cs
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\StudentApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\StudentA.F96802C8.Up2Date
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\StudentApp.Presentation.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\refint\StudentApp.Presentation.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\StudentApp.Presentation.pdb
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Presentation\obj\Debug\net8.0\ref\StudentApp.Presentation.dll

@@ -1,0 +1,15 @@
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\bin\Debug\net8.0\StudentApp.Business.deps.json
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\bin\Debug\net8.0\StudentApp.Business.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\bin\Debug\net8.0\StudentApp.Business.pdb
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\bin\Debug\net8.0\StudentApp.Data.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\bin\Debug\net8.0\StudentApp.Data.pdb
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\StudentApp.Business.csproj.AssemblyReference.cache
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\StudentApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\StudentApp.Business.AssemblyInfoInputs.cache
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\StudentApp.Business.AssemblyInfo.cs
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\StudentApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\StudentA.33E46770.Up2Date
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\StudentApp.Business.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\refint\StudentApp.Business.dll
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\StudentApp.Business.pdb
+C:\Users\HP 2021\source\repos\StudentApp\StudentApp.Business\obj\Debug\net8.0\ref\StudentApp.Business.dll
